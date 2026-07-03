@@ -16,7 +16,7 @@ const pois = [
     hours: "Acceso abierto 24 horas",
     desc: "Construido en 1876, este icónico puente de madera cruza la quebrada de la Bajada de Baños. Dice la tradición que quien lo visite por primera vez puede pedir un deseo cruzándolo sin respirar. Fue inmortalizado por la cantautora Chabuca Granda en su famosa canción homónima.",
     special: "Tip: Visítalo al atardecer cuando las luces de gas coloniales se encienden.",
-    image: "https://images.unsplash.com/photo-1627894006066-b4578b537103?q=80&w=600",
+    image: "https://upload.wikimedia.org/wikipedia/commons/e/ec/Puente_de_los_Suspiros.JPG",
     closestNode: "puente"
   },
   {
@@ -30,7 +30,7 @@ const pois = [
     hours: "Acceso abierto 24 horas",
     desc: "Un hermoso barranco natural flanqueado por antiguas casonas de madera del siglo XIX. Antiguamente era el camino que usaban los pescadores locales. Hoy está lleno de restaurantes, galerías de arte, bares acogedores y hermosos murales de arte urbano.",
     special: "Tip: Baja caminando hasta la playa cruzando por debajo del Puente de los Suspiros.",
-    image: "https://images.unsplash.com/photo-1590001155093-a3c66ab0c3ff?q=80&w=600",
+    image: "https://upload.wikimedia.org/wikipedia/commons/e/e0/Bajada_de_los_Ba%C3%B1os%2C_Barranco.jpg",
     closestNode: "bajada"
   },
   {
@@ -44,7 +44,7 @@ const pois = [
     hours: "Abierto 24 horas",
     desc: "El punto de encuentro central de Barranco. Cuenta con una hermosa estatua de la Danaida en su pileta central, hermosos jardines, y está rodeado por la Biblioteca Municipal de madera de estilo neoclásico y la Iglesia Santísima Cruz.",
     special: "Dato: Frecuentemente alberga ferias de libros, ferias gastronómicas y músicos callejeros.",
-    image: "https://images.unsplash.com/photo-1580618672591-eb180b1a973f?q=80&w=600",
+    image: "https://upload.wikimedia.org/wikipedia/commons/f/fb/Plaza_de_Armas_de_Barranco%2C_Lima.jpg",
     closestNode: "plaza"
   },
   {
@@ -58,7 +58,7 @@ const pois = [
     hours: "Mar - Dom: 10:00 AM - 6:00 PM",
     desc: "Ubicado en una deslumbrante mansión de estilo francés construida en 1906, este museo alberga una valiosa colección privada de arte colonial del sur andino (pinturas cusqueñas, platería, esculturas y retablos).",
     special: "Imperdible: Los jardines del palacio decorados con estatuas de mármol y palmeras centenarias.",
-    image: "https://images.unsplash.com/photo-1566121318599-29a8a773d2a7?q=80&w=600",
+    image: "https://upload.wikimedia.org/wikipedia/commons/1/1a/Museo_Pedro_de_Osma.jpg",
     closestNode: "museo"
   },
   {
@@ -72,7 +72,7 @@ const pois = [
     hours: "Mar - Dom: 10:00 AM - 7:00 PM",
     desc: "El único museo de Lima especializado en la difusión de prácticas artísticas contemporáneas. Cuenta con tres salas de exhibición principales y un amplio parque que sirve de plataforma para intervenciones de arte al aire libre.",
     special: "Tip: Su cafetería en el jardín frente a una pequeña laguna es un remanso de paz.",
-    image: "https://images.unsplash.com/photo-1554907914-1b344d59c3e2?q=80&w=600",
+    image: "https://upload.wikimedia.org/wikipedia/commons/3/3b/Barranco_06.jpg",
     closestNode: "mac"
   },
   {
@@ -86,7 +86,7 @@ const pois = [
     hours: "Abierto 24 horas",
     desc: "Ubicado en un acantilado justo detrás de la Iglesia de la Ermita, este mirador ofrece una de las vistas más románticas y despejadas del mar limeño, el Morro Solar de Chorrillos y la Bajada de Baños.",
     special: "Tip: El mejor momento para ir es a las 5:30 PM para ver el sunset sobre el océano.",
-    image: "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=600",
+    image: "https://upload.wikimedia.org/wikipedia/commons/5/52/Barranco_overlook.jpg",
     closestNode: "puente"
   },
 
